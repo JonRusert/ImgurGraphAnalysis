@@ -1,0 +1,49 @@
+\begin{thebibliography}{1}
+
+\bibitem{imgurabout}
+Imgur.
+\newblock About imgur.
+\newblock \url{https://imgurinc.com/about}.
+
+\bibitem{alexa}
+Amazon.
+\newblock imgur.com traffic statistics.
+\newblock \url{https://www.alexa.com/siteinfo/imgur.com}.
+
+\bibitem{gag}
+MartynMage.
+\newblock Gift a giraffe.
+\newblock \url{https://giftagiraffe.com/}.
+
+\bibitem{campimgur}
+Imgur.
+\newblock Camp imgur.
+\newblock \url{https://blog.imgur.com/2015/02/03/camp-imgur/}.
+
+\bibitem{imgurapi}
+Imgur.
+\newblock Imgur api.
+\newblock \url{https://apidocs.imgur.com/}.
+
+\bibitem{aec2}
+Amazon.
+\newblock Amazon ec2.
+\newblock \url{https://aws.amazon.com/ec2/}.
+
+\bibitem{hagberg-2008-exploring}
+Aric~A. Hagberg, Daniel~A. Schult, and Pieter~J. Swart.
+\newblock Exploring network structure, dynamics, and function using {NetworkX}.
+\newblock In {\em Proceedings of the 7th Python in Science Conference
+  (SciPy2008)}, pages 11--15, Pasadena, CA USA, August 2008.
+
+\bibitem{Hunter:2007}
+J.~D. Hunter.
+\newblock Matplotlib: A 2d graphics environment.
+\newblock {\em Computing In Science \& Engineering}, 9(3):90--95, 2007.
+
+\bibitem{DBLP:journals/corr/abs-1111-4503}
+Johan Ugander, Brian Karrer, Lars Backstrom, and Cameron Marlow.
+\newblock The anatomy of the facebook social graph.
+\newblock {\em CoRR}, abs/1111.4503, 2011.
+
+\end{thebibliography}
